@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biocryptologylogin 1\n"
+"POT-Creation-Date: 2020-10-07 14:04+0200\n"
+"PO-Revision-Date: 2020-10-07 14:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: biocryptologyLogin.php\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: biocryptologyLogin.php:385
+msgid "Configuration Type"
+msgstr "Tipo de configuración"
+
+#: biocryptologyLogin.php:387
+msgid "Please, select a type of configuration."
+msgstr "Por favor, selecciona un tipo de configuración."
+
+#: biocryptologyLogin.php:392
+msgid "Configuration type"
+msgstr "Tipo de configuración"
+
+#: biocryptologyLogin.php:393
+msgid "Quick setup"
+msgstr "Configuración rápida"
+
+#: biocryptologyLogin.php:394
+msgid "Advanced setup"
+msgstr "Configuración avanzada"
+
+#: biocryptologyLogin.php:420
+msgid "First you will need to install our app on your mobile phone:"
+msgstr "Primero debes instalar nuestra aplicación en tu teléfono móvil:"
+
+#: biocryptologyLogin.php:421
+msgid "Hit \"Begin\" and scan the QR code that appears with our app to log in."
+msgstr ""
+"Presiona \"Comenzar\" y escanea el código QR que aparece con nuestra "
+"aplicación para iniciar sesión."
+
+#: biocryptologyLogin.php:422
+msgid ""
+"A pre-completed form will appear with some information that we have "
+"extracted from your profile, but you can change whatever you like."
+msgstr ""
+"Aparecerá un formulario precompletado con alguna información que hemos "
+"extraído de tu perfil, pero puedes cambiar lo que quieras."
+
+#: biocryptologyLogin.php:423
+msgid ""
+"When done, a code will be copied to your clipboard so that you can paste it "
+"in the field that will appear directly below (\"Please, paste your code here"
+"\")."
+msgstr ""
+"Cuando termine, se copiará un código en tu portapapeles para que puedas "
+"pegarlo en el campo que aparecerá directamente debajo (\"Por favor, pegue su "
+"código aquí\")."
+
+#: biocryptologyLogin.php:424
+msgid "Hit \"Finish\" and the setup process is complete."
+msgstr "Presiona \"Finalizar\" y el proceso de configuración habrá finalizado."
+
+#: biocryptologyLogin.php:425
+msgid "Begin"
+msgstr "Comenzar"
+
+#: biocryptologyLogin.php:434
+msgid "Please, paste your code here."
+msgstr "Por favor, pega tu código aquí."
+
+#: biocryptologyLogin.php:444
+msgid "Finish"
+msgstr "Finalizar"
+
+#: biocryptologyLogin.php:454
+msgid "Back"
+msgstr "Atrás"
+
+#: biocryptologyLogin.php:463
+msgid ""
+"With the fast configuration, you can easily activate the biocryptology plug-"
+"in:"
+msgstr ""
+"Con la configuración rápida puedes activar fácilmente el plugin de "
+"Biocryptology:"
+
+#: biocryptologyLogin.php:543 biocryptologyLogin.php:560
+#, fuzzy
+#| msgid "Download on the Apple Store"
+msgid "Download on the Google Play Store"
+msgstr "Descargar en la Apple Store"
+
+#: biocryptologyLogin.php:552 biocryptologyLogin.php:568
+msgid "Download on the Apple Store"
+msgstr "Descargar en la Apple Store"
+
+#: biocryptologyLogin.php:698
+msgid "Client ID"
+msgstr "ID de cliente"
+
+#: biocryptologyLogin.php:702
+msgid ""
+"Enter the client ID code copied from the plugin dashboard from your "
+"Biocryptology account."
+msgstr ""
+"Introduce el ID de cliente copiado de la pantalla de configuración del "
+"plugin en tu cuenta en Biocryptology."
+
+#: biocryptologyLogin.php:728
+msgid "Post Login URL"
+msgstr "URL poslogin"
+
+#: biocryptologyLogin.php:730
+msgid ""
+"Copy the URL above and paste it on the plugin dashboard from your "
+"Biocryptology account."
+msgstr ""
+"Copia la URL anterior y pégala en la pantalla de configuración del plugin en "
+"tu cuenta Biocryptology."
+
+#: biocryptologyLogin.php:748
+msgid "Enable user registration"
+msgstr "Habilitar el registro de usuarios"
+
+#: biocryptologyLogin.php:750
+msgid ""
+"Select whether account creation is allowed or not via Biocryptology on your "
+"system."
+msgstr ""
+"Selecciona si permites la creación de cuentas en tu sistema a través de "
+"Biocryptology."
+
+#: biocryptologyLogin.php:755 biocryptologyLogin.php:935
+msgid "Yes"
+msgstr "Sí"
+
+#: biocryptologyLogin.php:756 biocryptologyLogin.php:936
+msgid "No"
+msgstr "No"
+
+#: biocryptologyLogin.php:773
+msgid "Redirect to"
+msgstr "Redirigir a"
+
+#: biocryptologyLogin.php:817
+msgid "Important info"
+msgstr "Información importante"
+
+#: biocryptologyLogin.php:819
+msgid ""
+"To complete the configuration, make sure you select the same data on the "
+"plugin dashboard from your Biocryptology account."
+msgstr ""
+"Para completar la configuración, asegúrate de que has seleccionado los "
+"mismos datos que los que aparecen en la configuración del plugin en tu "
+"cuenta Biocryptology."
+
+#: biocryptologyLogin.php:836
+msgid "User data configuration"
+msgstr "Configuración de los datos de usuario"
+
+#: biocryptologyLogin.php:842
+msgid ""
+"The following data will always be sent to your system as it is required by "
+"your CMS on user creation:"
+msgstr ""
+"Los siguientes datos siempre se enviarán a su sistema ya que su CMS los "
+"necesita para la creación del usuario:"
+
+#: biocryptologyLogin.php:846
+msgid ""
+"Select the data you would like to receive from users. Note that you also "
+"need to configure them on the plugin dashboard from your Biocryptology "
+"account:"
+msgstr ""
+"Selecciona los datos que quieres recibir de los usuarios. Ten en cuenta que "
+"también debes configurarlos en el panel de configuración del plugin en la "
+"cuenta Biocryptology:"
+
+#: biocryptologyLogin.php:849
+msgid "Phone Number (verified)"
+msgstr "Número de teléfono (verificado)"
+
+#: biocryptologyLogin.php:850
+msgid "Language"
+msgstr "Idioma"
+
+#: biocryptologyLogin.php:851
+msgid "Sex"
+msgstr "Sexo"
+
+#: biocryptologyLogin.php:852
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#: biocryptologyLogin.php:853
+msgid "Address"
+msgstr "Dirección"
+
+#: biocryptologyLogin.php:854
+msgid "Given Names"
+msgstr "Nombre"
+
+#: biocryptologyLogin.php:855
+msgid "Surname"
+msgstr "Apellidos"
+
+#: biocryptologyLogin.php:856
+msgid "Email Address (verified)"
+msgstr "Dirección email (verificado)"
+
+#: biocryptologyLogin.php:931
+msgid "On Uninstall delete plugin data"
+msgstr "Al desinstalar, eliminar los datos del plugin"
+
+#: biocryptologyLogin.php:950
+#, php-format
+msgid ""
+"Delete Global Config data and custom table (%sbiocryptology_users) created "
+"by this plugin on uninstall. <br/><strong>Please note that this can not be "
+"undone and you keep proper backup of full database before using feature.</"
+"strong>"
+msgstr ""
+"Borrar los datos de configuración global y la tabla personalizada "
+"(% sbiocryptology_users) creados por este plugin en la desinstalación. <br/> "
+"<strong> Ten en cuenta que esta operación no es reversible, por lo que se "
+"aconseja mantener una copia de seguridad de la base de datos completa antes "
+"de usar la función. </strong>"
+
+#: biocryptologyLogin.php:973
+msgid "Required fields."
+msgstr "Campos requeridos."
+
+#: biocryptologyLogin.php:994
+msgid "Help"
+msgstr "Ayuda"
+
+#: biocryptologyLogin.php:1023
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+#: biocryptologyLogin.php:1027
+msgid ""
+"Enter the secret key code copied from the plugin dashboard from your "
+"Biocryptology account."
+msgstr ""
+"Introduce la clave secreta copiada del panel de configuración del plugin en "
+"tu cuenta Biocryptology."
+
+#: biocryptologyLogin.php:1046
+msgid "Biocryptology API Configuration"
+msgstr "Configuración del API de Biocryptology"
+
+#: biocryptologyLogin.php:1047 biocryptologyLogin.php:1090
+#: templates/admin-settings-display.php:20
+msgid "Biocryptology Login"
+msgstr "Login con Biocryptology"
+
+#: biocryptologyLogin.php:1089
+msgid "Biocryptology Account"
+msgstr "Cuenta Biocryptology"
+
+#: biocryptologyLogin.php:1167
+msgid "Invalid state parameter."
+msgstr "Parámetro estado inválido."
+
+#: biocryptologyLogin.php:1350
+msgid "Invalid email address."
+msgstr "Dirección de correo inválida."
+
+#: biocryptologyLogin.php:1398
+msgid ""
+"This Biocryptology account is already linked with other account. If you want "
+"to connect, then disconnect that account first and then try again!"
+msgstr ""
+"Esta cuenta Biocryptology ya está vinculada con otra cuenta de la web. Si "
+"quieres conectarte, desconecta esa cuenta primero, ¡y vuelve a intentarlo!"
+
+#: biocryptologyLogin.php:1460
+msgid ""
+"Your Biocryptology profile is successfully linked with your account. Now you "
+"can sign in with Biocryptology easily."
+msgstr ""
+"Tu perfil en Biocryptology se ha vinculado correctamente con tu cuenta en la "
+"web. Ahora puedes iniciar sesión con Biocryptology fácilmente."
+
+#: includes/class-setting.php:390
+msgid "Choose File"
+msgstr "Selecciona un fichero"
+
+#: includes/class-setting.php:511 includes/class-setting.php:518
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+#: templates/admin-settings-display.php:20
+msgid "Configuration"
+msgstr "Configuración"
+
+#, fuzzy
+#~| msgid "Biocryptology API Configuration"
+#~ msgid "Biocryptology Login: Configuration"
+#~ msgstr "Configuración del API de Biocryptology"

@@ -1,0 +1,17 @@
+.biocryptologylogin-btn {
+    display     : none;
+    white-space : nowrap !important;
+}
+
+.biocryptologylogin-btn span {
+    vertical-align : middle;
+}
+
+.dashicons-biocryptology:before {
+    font-size      : 1em !important;
+    height         : auto;
+    padding-bottom : 3px;
+    padding-right  : 5px;
+    vertical-align : middle !important;
+    width          : auto;
+}

@@ -1,0 +1,19 @@
+.biocryptologyloginshortcodetrigger {
+    margin-top  : 5px;
+    margin-left : 4px;
+    float       : left;
+    display     : inline-block;
+}
+
+.biocryptologyloginshortcode, .biocryptologyloginshortcode-text {
+    background : #f7f7f7;
+    border     : 1px solid #ccc !important;
+    padding    : 3px 6px !important;
+    float      : left;
+    display    : inline-block;
+    max-width  : 125px;
+}
+
+.biocryptologyloginshortcode-text {
+    max-width : 125px;
+}
